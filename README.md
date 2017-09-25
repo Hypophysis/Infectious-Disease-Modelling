@@ -2,8 +2,8 @@
 My attempt to create a program capable of modelling the spread of infectious diseases throughout a population. 
 
 Simply an exercise in autodidactically learning various disciplines:
-Epidemiology 
-Mathematical Modelling 
+Epidemiology, 
+Mathematical Modelling,
 Programming Principles (especially in Python)
 
 Current Resources - 
